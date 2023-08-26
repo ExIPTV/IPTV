@@ -1,4 +1,4 @@
 #EXTM3U
-#EXYINF:0, INDEX
+#EXTINF:0, INDEX
 ../Streams/Countries/algeria.m3u
 ../Streams/Countries/others.m3u
