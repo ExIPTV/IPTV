@@ -1,3 +1,5 @@
 #EXTM3U
+#EXYINF:0, ALGERIA
 ../Streams/Countries/algeria.m3u
+#EXYINF:0, OTHERS
 ../Streams/Countries/others.m3u
