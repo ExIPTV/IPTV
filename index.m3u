@@ -457,3 +457,51 @@ http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:0 group-title="General" ,TVG
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+#EXTINF:0 group-title="Film & Series" ,ALERT COBRA
+https://i.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,ANIME ALL DAY
+https://i.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+#EXTINF:0 group-title="Sports" ,AUTOMOTOR sPORT
+https://i.mjh.nz/PlutoTV/5f760c3d41aa2d0007bfde19-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,BBC HG
+https://i.mjh.nz/PlutoTV/5fb5836fe745b600070fc743-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,BBC TRAVEL
+https://i.mjh.nz/PlutoTV/60e4519e6873180007d3cddb-alt.m3u8
+#EXTINF:0 group-title="Food" ,BBC FOOD
+https://i.mjh.nz/PlutoTV/5fb5844bf5514d0007945bda-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,LES 30 HISTOIRE
+https://i.mjh.nz/PlutoTV/64353456af2bd900088c1a1c-alt.m3u8
+#EXTINF:0 group-title="Entertainement" ,LES ANNEES FAC
+https://i.mjh.nz/PlutoTV/60afae68a7fc50000737186d-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,N24 DOKU
+https://i.mjh.nz/PlutoTV/60080e8a4bf36000076a81b1-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,NATURE TIME
+https://i.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,ONE PIECE
+https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,PBS NATURE
+https://i.mjh.nz/PlutoTV/640a64bd73e013000893d4e0-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,PLUTO TV ANIMAUX
+https://i.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,SMITHSONIAN CHANNELS
+https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,ADVENTURE EARTH
+https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8?ads.wurl_channel=1299&ads.wurl_name=AdventureEarth&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,BBC EARTH
+https://d14kv1o37h8tfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lnty50u34issh/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Documentaries" ,BERGBLICK
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,DESTINATION NATURE
+https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,DOC+
+https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Documentaries" ,INWILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,PLANET KNOWLEDGE
+https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8?ads.wurl_channel=392&ads.wurl_name=PlanetKnowledge&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,TRAVELXP
+https://dd294eab38c54185a36dadb315093cd6.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-ch_TravelXPFR/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXPFR&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 ,WILD EARTH
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,XPLORE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d25e73-7b34-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
