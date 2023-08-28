@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0 group-title="General" ,1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:0 group-title="Shop" ,123TV
@@ -363,3 +363,97 @@ https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:0 group-title="Entertainement" ,JUST POUR RIRE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:0 group-title="General" ,KBS1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:0 group-title="General" ,LA1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:0 group-title="General" ,LA2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
+#EXTINF:0 group-title="General" ,LA7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:0 group-title="General" ,LA7D
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:0 group-title="News" ,LE FIGARO
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:0 group-title="Documentaries" ,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0 group-title="General" ,M2
+http://146.59.85.40:89/m2/index.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,M-NET KIDS
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:0 group-title="Arabic" ,MAKKAH
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:0 group-title="General" ,M6
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/M6.m3u8
+#EXTINF:0 group-title="Arabic" ,MBC1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 group-title="Entertainement" ,MBC4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 group-title="General" ,MBC
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 group-title="Arabic" ,MBC5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 group-title="Entertainement" ,MBC DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0 group-title="Entertainement" ,MBC+DRAMA
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 group-title="General" ,MOLDOVA1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:0 group-title="General" ,MOLDOVA 2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:0 group-title="Documentaries" ,AD NAT GEO
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Arabic" ,OMAN TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="General" ,RTI
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:0 group-title="General" ,RTI2
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:0 group-title="News" ,RT FRANCE
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:0 group-title="General" ,RTK1
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+#EXTINF:0 group-title="General" ,RTL CROITIA
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:0 group-title="General" ,RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 group-title="Arabic" ,QATAR TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:0 group-title="Arabic" ,QATAR TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:0 group-title="Arabic" ,RASD
+https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
+#EXTINF:0 group-title="Documentaries" ,REALWILD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,REAL MADRID
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,ROTANA KIDS
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:0 group-title="Shop" ,RT ARABIC
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:0 group-title="Documentaries" ,RT DOC
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:0 group-title="Arabic" ,SYRIA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:0 group-title="Arabic" ,SYRIA SATELITE CHANNEL
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:0 group-title="Arabic" ,TAMAZIGHT
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+#EXTINF:0 group-title="General" ,TELESUR
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:0 group-title="General" ,TEVE 2
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:0 group-title="General" ,teva
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
+#EXTINF:0 group-title="General" ,TRT1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:0 group-title="Documentaries" ,TRT BELGESSEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="General" ,TVCG1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:0 group-title="General" ,TVCG2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:0 group-title="General" ,TVG
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
