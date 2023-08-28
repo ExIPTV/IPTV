@@ -187,7 +187,7 @@ https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:0 group-title="Arabic" ,BAHRAIN INT
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:0 group-title="Arabic" ,BAQHRAIN QURAN
+#EXTINF:0 group-title="Arabic" ,BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,BAHRAIN SPORTS 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -501,7 +501,127 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsun
 https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8?ads.wurl_channel=392&ads.wurl_name=PlanetKnowledge&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 group-title="Documentaries" ,TRAVELXP
 https://dd294eab38c54185a36dadb315093cd6.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-ch_TravelXPFR/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXPFR&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0 ,WILD EARTH
+#EXTINF:0 group-title="Documentaries" ,WILD EARTH
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:0 group-title="Documentaries" ,XPLORE
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d25e73-7b34-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,automotor und sport
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/76419aa5-678f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,BBC HISTORY
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,BOB L'EPONGE
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609a33d06972da0007748ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 group-title="Food" ,BON APETTIT
+https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="News" ,CBS NEWS
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live%3Bimafw__fw_h_referer%3Dcom.samsung.android.tvplus&imafw_description_url=https:%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+#EXTINF:0 group-title="Entertainement" ,CHARLIE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4f5c84a7-7c29-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Food" ,CHEF CLUB
+https://d1qgfzoqnpqud7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-CH-prod/chc/ch/ch.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Film & Series" ,CINEVAULT
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Film & Series" ,CINEVAULT CLASSIC
+https://40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/playlist.m3u8?ads.wurl_channel=1043&ads.wurl_name=CinevaultClassics&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Film & Series" ,CINEVAULT WESTERNS
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Film & Series" ,CINE NANAR
+https://d2o63bkh2qz410.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Film & Series" ,CINE PRIME
+https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Film & Series" ,CINE WESTERN
+https://d1rmn2456fdhrx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Film & Series" ,COLD CASE
+https://d3n398o9ptkwam.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ev7lapqiwp2q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Documentaries" ,CURIOSITY NOW
+https://94177cd502da45fba16d3f8b98ae8c83.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_CuriosityNow/playlist.m3u8?ads.wurl_channel=1514&ads.wurl_name=CuriosityNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,ENQUETES DE CHOC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,EXPLORER
+https://86ccf2ddbf4249949d488aeac2966def.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_ExplorerHD/playlist.m3u8?ads.wurl_channel=1314&ads.wurl_name=ExplorerHD&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,FAIL ARMY
+https://5dd1e416efff4bc784ec641cf5906503.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,FEAR FACTOR
+https://d1hndhnbnjd9e5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/FearFactor-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Sports" ,FIFA+
+https://d96c5578.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1483&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Film & Series" ,FREQUENCE NOVELAS
+https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,GAME SHOW CENTRAL
+https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Anime & Kids" ,GONG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Food" ,GUSTO TV
+https://d16mfeqqufiw9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw0q246thq1dh-ssai-prd/amggustotv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Film & Series" ,GENERATION SITCOMS
+https://d14w9hcrss4gd2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5510c31dvuxs2-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,HISTORY WARFARE NOW
+https://d3t2jpggtnw401.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4oehoyzh9d7y/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Sports" ,IMPACT WRESTLING
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Documentaries" ,INFAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insightcanada/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,INTROUBLE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,INWONDER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Anime & Kids" ,KETCHUP
+https://aa8019675b784a8f86008d57eaefb016.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Ketchup/playlist.m3u8?ads.wurl_channel=950&ads.wurl_name=Ketchup&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,L'EQUIPE 21 LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,L'EQUIPE 21 LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,LEGO CHANNEL
+https://d2d2y1k0fw9byl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zgbger3yy47ge-ssai-prd/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Film & Series" ,LES FILLES D'A COTE
+https://d15oncn1002oa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vlbcqohulygk/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,LES LAPAIN CRETIN
+https://d9e4vvlqt4gs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wfr2fktwv6l7b/lcf.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,LOVE THE PETS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,LOVE THE PLANET
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Documentaries" ,MAGELAN
+https://851d15846f544889884d63f1a220535e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_MagellanTV/playlist.m3u8?ads.wurl_channel=1044&ads.wurl_name=MagellanTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 group-title="Entertainement" ,MAISON ET TRAVEAUX
+https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Food" ,MASTER CHEF
+https://d3ogvsjhr301yh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ecfucb9qnj105-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,MECH+
+https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Entertainement" ,MGG FAST
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,MONDO KIDS
+https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MondoTVKids/playlist.m3u8?ads.wurl_channel=609&ads.wurl_name=MondoTVKids&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,MOONBUG
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Sports" ,MORE THAN SPORT TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,MOTOR1TV
+https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8?ads.wurl_channel=560&ads.wurl_name=Motor1TV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,MOTOR RACING
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d5dfb7-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Sports" ,MMOTOR TREND
+https://d2ueqfwjyzruvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5kx37wbamxs50-ssai-prd/v1/motortrend_motortrendfasttv_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Entertainement" ,MOTUS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-motuslachaine-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="Entertainement" ,MOUNTAIN MEN
+https://dlzeao8zx0kff.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00qrb1nimlfc6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:0 group-title="Film & Series" ,NASHVILLE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-nashvillefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 group-title="News" ,NBC NEWS
+https://d2ww7x6333b6qp.cloudfront.net/10507/9999542/hls/master.m3u8?ads.xumo_channelId=9999542&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_us_nbcnewsnow_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_providerId=1828&ads.xumo_providerName=nbcnewsnow&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbcnewsnow_us&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0 group-title="Anime & Kids" ,NICK PLUTO TV
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1
+#EXTINF:0 group-title="Anime & Kids" ,NICK REWIND
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 group-title="Documentaries" ,ONE TERRA
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/214f1a50-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 group-title="Food" ,CUISINE PLUTO TV
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61768f3c56cbce00075a06b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 group-title="Anime & Kids" ,SUPERTOONS
+https://cbbcdf4b20e0474f92d7d03a48faa5f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_SuperToonsTV/playlist.m3u8?ads.wurl_channel=658&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Documentaries" ,TERRA X
+https://d1zs2gj7tbptpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ghu9x4dfp5gx4-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="General" ,FUJITV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
