@@ -625,3 +625,53 @@ https://cbbcdf4b20e0474f92d7d03a48faa5f2.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1zs2gj7tbptpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ghu9x4dfp5gx4-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 group-title="General" ,FUJITV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:0 group-title="General" ,kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0 group-title="General" ,KANAL S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:0 group-title="General" ,M6 INT
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+#EXTINF:0 group-title="General" ,TRT2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0 group-title="News" ,TRT ARABI
+http://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="General" ,CANAL MALAGA
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="General" ,CANAL SUR ANDALUCIA
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="General" ,DIGI24
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:0 group-title="General" ,PROTV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
+#EXTINF:0 group-title="General" ,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="General" ,РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0 group-title="General" ,RTP
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 group-title="General" ,TVI AFRICA
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0 group-title="General" ,VIA MIRABELLE
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:0 group-title="Documentaries" ,TV NATURA
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:0 group-title="General" ,TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:0 group-title="General" ,EPSILON
+https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+#EXTINF:0 group-title="Film & Series" ,13ULICHA
+http://nl1cdn.plusx.tv:8880/325/mono.m3u8?token=59431c6ea66b3e866a2222
+#EXTINF:0 group-title="Documentaries" ,ADVENTURE TV
+http://nl1cdn.plusx.tv:8880/320/mono.m3u8?token=59431c6ea66b3e866a2222
+#EXTINF:0 group-title="Documentaries" ,ANIMAL PLANET
+http://nl1cdn.plusx.tv:8880/317/mono.m3u8?token=59431c6ea66b3e866a2222
+#EXTINF:0 group-title="Documentaries" ,NATGEO WILD
+http://nl1cdn.plusx.tv:8880/223/mono.m3u8?token=59431c6ea66b3e866a2222
+#EXTINF:0 group-title="Documentaries" ,VIASAT NATURE
+http://nl1cdn.plusx.tv:8880/183/mono.m3u8?token=59431c6ea66b3e866a2222
+#EXTINF:0 group-title="General" ,M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,TIJI
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,TIVI 5 MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
