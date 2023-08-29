@@ -460,7 +460,7 @@ https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 #EXTINF:0 group-title="Film & Series" ,ALERT COBRA
 https://i.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8
 #EXTINF:0 group-title="Anime & Kids" ,ANIME ALL DAY
-https://i.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+https://i.mjh.nz/PlutoTV/5f8ed52a62fa750007733239-alt.m3u8
 #EXTINF:0 group-title="Sports" ,AUTOMOTOR sPORT
 https://i.mjh.nz/PlutoTV/5f760c3d41aa2d0007bfde19-alt.m3u8
 #EXTINF:0 group-title="Documentaries" ,BBC HG
@@ -675,3 +675,71 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:0 group-title="Anime & Kids" ,TIVI 5 MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:0 group-title="General" ,PARIS PREMIERE
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+#EXTINF:0 group-title="Film & Series" ,SCI-FI
+https://i.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,THE WALKING DEAD UNIVERS
+https://i.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,90210
+https://i.mjh.nz/PlutoTV/5f4d83e0a382c00007bc02e7-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,ALERT A MIALIBU
+https://i.mjh.nz/PlutoTV/60afaa535580be0007ac9ee4-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,ANGELA ANACONDA
+https://i.mjh.nz/PlutoTV/611e73687fcd580007d1f052-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,ARTHUR
+https://i.mjh.nz/PlutoTV/6482f27c17f5e10008c10ff0-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,AVATAR
+https://i.mjh.nz/PlutoTV/60b4c17a81e29300071d3a39-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,BABAR
+https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
+#EXTINF:0 group-title="Entertainement" ,A PRENDRE OU A LAISSER
+https://i.mjh.nz/PlutoTV/643531ba82a18e0008a4d57c-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,AMOUR GLOIRE ET BEAUTE
+https://i.mjh.nz/PlutoTV/61533b6334ba9b000763d7b1-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,BUBBLE GUPIES
+https://i.mjh.nz/PlutoTV/618e3c1106d23b0007366723-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,CHARLOTTE AUX FRAISE
+https://i.mjh.nz/PlutoTV/60dc6937b450ad0007377e48-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,DETECTIVE CONAN
+https://i.mjh.nz/PlutoTV/62f3e8ad2a8e8000077b013d-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,DIGIMON
+https://i.mjh.nz/PlutoTV/617bae1d69bca3000729561e-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,DORA TV
+https://i.mjh.nz/PlutoTV/5f8ecb9524419b0007365a1c-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,ECHAPPEES BELLES
+https://i.mjh.nz/PlutoTV/63b578b524f0cf00072f2a52-alt.m3u8
+#EXTINF:0 group-title="Entertainement" ,GAMING TV
+https://i.mjh.nz/PlutoTV/5f8eccd81062c300078a11df-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,HELENE ET LES GARCON
+https://i.mjh.nz/PlutoTV/604f8de01b479400078fb1e7-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,INAZUMA ELEVEN
+https://i.mjh.nz/PlutoTV/611e75226b7f420007c3f319-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,LE MIEL ET LES ABEILLES
+https://i.mjh.nz/PlutoTV/60549a8d8f1b53000768bc52-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,LE MIRACLE DE L AMOUR
+https://i.mjh.nz/PlutoTV/60549c238c3f21000753d3e0-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,LES RAZMOKET
+https://i.mjh.nz/PlutoTV/619cee9d5dc3ed0007d845c8-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,MACGAYVER
+https://i.mjh.nz/PlutoTV/6245ccd0c6cdb800074632e4-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,KIDS ANIMATION
+https://i.mjh.nz/PlutoTV/5f8eba14a4ffb8000764e950-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,KIDS COLECTION
+https://i.mjh.nz/PlutoTV/5f92b625c1ffbc0007e60c37-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,KIDS GAMING
+https://i.mjh.nz/PlutoTV/611e6ddc7fcd580007d1eb5f-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,KIDS SERIES
+https://i.mjh.nz/PlutoTV/5f8eb99ff17815000784a3b0-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,JUNIOR
+https://i.mjh.nz/PlutoTV/5f8ecb336537e8000764a17f-alt.m3u8
+#EXTINF:0 group-title="Documentaries" ,VOYAGE
+https://i.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
+#EXTINF:0 group-title="Film & Series" ,PREMIER BAISER
+https://i.mjh.nz/PlutoTV/60afb0a628301c0007cebfec-alt.m3u8
+#EXTINF:0 group-title="Entertainement" ,SECRET STORY
+https://i.mjh.nz/PlutoTV/62f216abc4a6540007d26b2e-alt.m3u8
+#EXTINF:0 group-title="Anime & Kids" ,XILAM
+https://fda836df464945ceba2aaecfb771f934.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_XilamTV/playlist.m3u8?ads.wurl_channel=1005&ads.wurl_name=XilamTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 group-title="Anime & Kids" ,JELLYTOON
+https://detxaqhrw2ib7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qnsppao6j5uqn-prod/mtd/jt/mtd_jt.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
