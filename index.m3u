@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Documentaries" ,ASHARQ DOC
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 group-title="Sports" ,DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="General" ,TF1
