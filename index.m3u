@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="General" ,ZDF
+https://edge-1288-ch-gv.filmon.com/live/2759.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d352ad2ea25f55c563029338699e79562a8d603792e75abf1f4b703399e97f55d0e9a714381b25b869680bf41f7b464c864d86dc392d3b7b98d23d2e0450c0570f310490429faf2bc5b68013ab2db0e1fb31fa46777af4721ba66ad29c54727789e918cba969b424e5b53e4071ba4e7cfd1802f263c2bfea37945d89440b3f8a5f
+#EXTINF:-1 group-title="General" ,CUATRO
+https://rpn.bozztv.com/inim03/live1/cuatro/chunks.m3u8?nimblesessionid=123774361&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIzIDU6MjA6MjcgUE0maGFzaF92YWx1ZT1ySnlMM3A2UzBFcmJBMEg1SE5aeTJnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 group-title="General" ,TV3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8
 #EXTINF:-1 group-title="Documentaries" ,ASHARQ DOC
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:0 group-title="Sports" ,DUBAI SPORTS 2
