@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:0 group-title="FRANCE" tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/TF1.png?raw=true" ,TF1
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:0 group-title="FRANCE" tvg-id="france2.fr" tvg-name="FRANCE 2" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/FRANCE2.png?raw=true" ,FRANCE 2
+#EXTINF:0 group-title="FRANCE" tvg-id="france2.fr" tvg-name="FRANCE2" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/FRANCE2.png?raw=true" ,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
-#EXTINF:0 group-title="FRANCE" tvg-id="france3.fr" tvg-name="FRANCE 3" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/FRANCE3.png?raw=true" ,FRANCE 3
+#EXTINF:0 group-title="FRANCE" tvg-id="france3.fr" tvg-name="FRANCE3" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/FRANCE3.png?raw=true" ,FRANCE 3
 http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="canalplus.fr" tvg-name="CANAL+ Clair" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/canal+.png?raw=true" ,Canal +
+http://livetv.ktv.zone/6/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="france5.fr" tvg-name="FRANCE5" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/FRANCE5.png?raw=true" ,FRANCE 5
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/m6.png?raw=true" ,M6
+http://livetv.ktv.zone/8/play.m3u8
