@@ -13,7 +13,7 @@ http://livetv.ktv.zone/7/play.m3u8
 http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/arte.png?raw=true" ,ARTE
 http://livetv.ktv.zone/9/play.m3u8
-#EXTINF:0 group-title="FRANCE" tvg-id="c8.fr" tvg-name="c8" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/m6.png?raw=true" ,C8
+#EXTINF:0 group-title="FRANCE" tvg-id="c8.fr" tvg-name="c8" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/c8.png?raw=true" ,C8
 http://livetv.ktv.zone/10/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="w9.fr" tvg-name="W9" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/w9.png?raw=true" ,W9
 http://livetv.ktv.zone/11/play.m3u8
