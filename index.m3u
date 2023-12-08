@@ -15,3 +15,11 @@ http://livetv.ktv.zone/8/play.m3u8
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="c8.fr" tvg-name="c8" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/m6.png?raw=true" ,C8
 http://livetv.ktv.zone/10/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="w9.fr" tvg-name="W9" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/w9.png?raw=true" ,W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="tmc.fr" tvg-name="TMC" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tmc.png?raw=true" ,TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tfx.png?raw=true" ,TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="nrj12.fr" tvg-name="NRJ12" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/nrj12.png?raw=true" ,NRJ12
+http://livetv.ktv.zone/14/play.m3u8
