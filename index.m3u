@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:0 group-title="FRANCE" tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/TF1.png?raw=true" ,TF1
 http://livetv.ktv.zone/3/play.m3u8
@@ -23,3 +24,168 @@ http://livetv.ktv.zone/12/play.m3u8
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="nrj12.fr" tvg-name="NRJ12" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/nrj12.png?raw=true" ,NRJ12
 http://livetv.ktv.zone/14/play.m3u8
+EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/10094.png" tvg-id="10094", TVP Polonia
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/10094/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/46732.png" tvg-id="46732", TVP
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/46732/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/63482.png" tvg-id="63482", TVP1
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/63482/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/35691.png" tvg-id="35691", TVP2
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/35691/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/43723.png" tvg-id="43723", TVP3 Warszawa
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/43723/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/43619.png" tvg-id="43619", TV4 Poland
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/43619/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/69885.png" tvg-id="69885", TV6 Poland
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/69885/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/38462.png" tvg-id="38462", TVN 7
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/38462/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/36629.png" tvg-id="36629", Puls 2
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/36629/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/57238.png" tvg-id="57238", TTV HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/57238/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/54723.png" tvg-id="54723", TVN
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/54723/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47826.png" tvg-id="47826", TVN Turbo
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47826/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/64924.png" tvg-id="64924", TVN 24
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/64924/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/58326.png" tvg-id="58326", TVN24 BiS HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/58326/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/37824.png" tvg-id="37824", TVN Fabula
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/37824/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47345.png" tvg-id="47345", TVP Info
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47345/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/53745.png" tvg-id="53745", TVP3 Info
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/53745/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/34981.png" tvg-id="34981", Polsat HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/34981/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/65391.png" tvg-id="65391", Polsat 2 HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/65391/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/48196.png" tvg-id="48196", Polsat News
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/48196/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47374.png" tvg-id="47374", Polsat News 2
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47374/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47208.png" tvg-id="47208", Polsat Cafe HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47208/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/64235.png" tvg-id="64235", 4FUN
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/64235/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/36472.png" tvg-id="36472", Ale Kino!
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/36472/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/27843.png" tvg-id="27843", 13 Ulica HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/27843/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/47376.png" tvg-id="47376", TNT Polska
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47376/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/46993.png" tvg-id="46993", Kino Polska
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/46993/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/62975.png" tvg-id="62975", TVP Historia
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/62975/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/53629.png" tvg-id="53629", HBO HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/53629/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/49923.png" tvg-id="49923", HBO2 HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/49923/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/63521.png" tvg-id="63521", HBO3 HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/63521/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47382.png" tvg-id="47382", Polsat Film
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47382/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/37547.png" tvg-id="37547", FilmBox Action
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/37547/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/39235.png" tvg-id="39235", FilmBox Extra
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/39235/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/61927.png" tvg-id="61927", FilmBox Premium
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/61927/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/34773.png" tvg-id="34773", HGTV
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/34773/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/62995.png" tvg-id="62995", Teletoon+
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/62995/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/54830.png" tvg-id="54830", Mini Mini
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/54830/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/33662.png" tvg-id="33662", Canal Plus Sport
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/33662/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/55352.png" tvg-id="55352", Canal Plus Sport 2
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/55352/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/63534.png" tvg-id="63534", Canal Plus Sport 3
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/63534/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/47762.png" tvg-id="47762", Canal Plus Sport 4
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47762/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/47723.png" tvg-id="47723", Canal Plus Sport 5
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/47723/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/52243.png" tvg-id="52243", Polsat Sport HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/52243/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/43228.png" tvg-id="43228", Polsat Sport Extra HD
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/43228/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/27360.png" tvg-id="27360", TVP Sport
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/27360/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/36283.png" tvg-id="36283", Sport Klub
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/36283/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/64752.png" tvg-id="64752", Motowizja TV
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/64752/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/35983.png" tvg-id="35983", Extreme Sports
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/35983/hls/pl.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/26781.png" tvg-id="26781", Golf Channel
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/26781/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/38724.png" tvg-id="38724", Golf+
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/38724/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/37729.png" tvg-id="37729", Eleven Sports 1
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/37729/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/63872.png" tvg-id="63872", Eleven Sports 2
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/63872/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/37751.png" tvg-id="37751", Eleven Sports 3
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/37751/hls/pl.m3u8
+#EXTINF:0 tvg-rec="0" tvg-logo="https://pl.73mtv.net/img/channel_icons/63260.png" tvg-id="63260", Eleven Sports 4
+#EXTGRP:Poland
+https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/63260/hls/pl.m3u8
