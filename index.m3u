@@ -24,6 +24,18 @@ http://livetv.ktv.zone/12/play.m3u8
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="nrj12.fr" tvg-name="NRJ12" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/nrj12.png?raw=true" ,NRJ12
 http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="lcp.fr" tvg-name="LCP" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/lcp.png?raw=true" ,LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="france4.fr" tvg-name="FRANCE4" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/france4.png?raw=true" ,FRANCE4
+http://livetv.ktv.zone/16/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="bfmtv.fr" tvg-name="BFMTV" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/bfmtv.png?raw=true" ,BFMTV
+http://livetv.ktv.zone/17/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id=cnews.fr" tvg-name="CNEWS" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/cnews.png?raw=true" ,CNEWS
+http://livetv.ktv.zone/18/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="cstar.fr" tvg-name="cstar" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/bfmtv.png?raw=true" ,cstar
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="bfmtv.fr" tvg-name="FRANCE4" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/bfmtv.png?raw=true" ,BFMTV
+http://livetv.ktv.zone/20/play.m3u8
 EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/10094.png" tvg-id="10094", TVP Polonia
 #EXTGRP:Poland
 https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/10094/hls/pl.m3u8
