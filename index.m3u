@@ -54,3 +54,7 @@ http://livetv.ktv.zone/28/play.m3u8
 http://livetv.ktv.zone/29/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="tivi5.fr" tvg-name="TIVI5" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tivi5.png?raw=true" ,TIVI5
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="tv5mondestyle.fr" tvg-name="TV5 MONDE STYLE" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tv5mondestyle.png?raw=true" ,TV5 MONDE STYLE
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+
