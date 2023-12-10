@@ -56,5 +56,5 @@ http://livetv.ktv.zone/29/play.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="tv5mondestyle.fr" tvg-name="TV5 MONDE STYLE" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tv5mondestyle.png?raw=true" ,TV5 MONDE STYLE
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-
-
+#EXTINF:0 group-title="FRANCE" tvg-id="france24.fr" tvg-name="FRANCE24" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/frqnce24.png?raw=true" ,FRANCE24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
