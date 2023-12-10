@@ -34,8 +34,24 @@ http://livetv.ktv.zone/17/play.m3u8
 http://livetv.ktv.zone/18/play.m3u8
 #EXTINF:0 group-title="FRANCE" tvg-id="cstar.fr" tvg-name="cstar" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/bfmtv.png?raw=true" ,cstar
 http://livetv.ktv.zone/19/play.m3u8
-#EXTINF:0 group-title="FRANCE" tvg-id="bfmtv.fr" tvg-name="FRANCE4" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/bfmtv.png?raw=true" ,BFMTV
+#EXTINF:0 group-title="FRANCE" tvg-id="gulli.fr" tvg-name="GULLI" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/gull.png?raw=true" ,GULLI
 http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="TF1SERIEFILM.fr" tvg-name="TF1 SERIE FILM" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/tf1seriefilm.png?raw=true" ,TF1 SERIE FILM
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="equipe21.fr" tvg-name="EQUIPE21" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/equipe21.png?raw=true" ,EQUIPE21
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/6ter.png?raw=true" ,6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="rmcstory.fr" tvg-name="RMC STORY" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/rmcstory.png?raw=true" ,RMC STORY
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/rmcdecouverte.png?raw=true" ,RMC DECOUVERTE
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="cherie25.fr" tvg-name="CHERIE 25" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/cherie25.png?raw=true" ,CHERIE 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="lci.fr" tvg-name="LCI" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/lci.png?raw=true" ,LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0 group-title="FRANCE" tvg-id="francenfo.fr" tvg-name="FRANCE:INFO" tvg-logo="https://github.com/ExIPTV/IPTV/blob/Streams/franceinfo.png?raw=true" ,FRANCE:INFO
+http://livetv.ktv.zone/29/play.m3u8
 EXTINF:0 tvg-rec="3" tvg-logo="https://pl.73mtv.net/img/channel_icons/10094.png" tvg-id="10094", TVP Polonia
 #EXTGRP:Poland
 https://rr2.73mtv.org/~1064fd7d0d199bf8e3ac3df9c5132c0d443/10094/hls/pl.m3u8
